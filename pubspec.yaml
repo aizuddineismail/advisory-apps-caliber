@@ -12,7 +12,7 @@ dependencies:
   advisory_rest_api:
     path: ./packages/advisory_rest_api
   bloc: ^8.1.1
-  dio: ^5.1.2
+  dio: ^5.2.1
   equatable: ^2.0.5
   flutter:
     sdk: flutter
